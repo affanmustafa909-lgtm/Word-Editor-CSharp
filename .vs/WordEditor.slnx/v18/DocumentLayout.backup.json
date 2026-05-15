@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUTER PANEL\\source\\repos\\WordEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54AFCB7-B09E-1FEB-2C0B-F8577011DCD0}|WordEditor\\WordEditor.csproj|c:\\users\\computer panel\\source\\repos\\wordeditor\\wordeditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54AFCB7-B09E-1FEB-2C0B-F8577011DCD0}|WordEditor\\WordEditor.csproj|solutionrelative:wordeditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54AFCB7-B09E-1FEB-2C0B-F8577011DCD0}|WordEditor\\WordEditor.csproj|C:\\Users\\COMPUTER PANEL\\source\\repos\\WordEditor\\wordeditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F54AFCB7-B09E-1FEB-2C0B-F8577011DCD0}|WordEditor\\WordEditor.csproj|solutionrelative:wordeditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER PANEL\\source\\repos\\WordEditor\\WordEditor\\Form1.cs",
+              "RelativeDocumentMoniker": "WordEditor\\Form1.cs",
+              "ToolTip": "C:\\Users\\COMPUTER PANEL\\source\\repos\\WordEditor\\WordEditor\\Form1.cs",
+              "RelativeToolTip": "WordEditor\\Form1.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAA9wMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:41:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPUTER PANEL\\source\\repos\\WordEditor\\WordEditor\\Form1.cs",
+              "RelativeDocumentMoniker": "WordEditor\\Form1.cs",
+              "ToolTip": "C:\\Users\\COMPUTER PANEL\\source\\repos\\WordEditor\\WordEditor\\Form1.cs [Design]",
+              "RelativeToolTip": "WordEditor\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:28:39.481Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

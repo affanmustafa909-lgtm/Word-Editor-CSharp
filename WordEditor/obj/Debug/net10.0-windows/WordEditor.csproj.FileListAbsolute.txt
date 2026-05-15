@@ -1,0 +1,16 @@
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\bin\Debug\net10.0-windows\WordEditor.exe
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\bin\Debug\net10.0-windows\WordEditor.deps.json
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\bin\Debug\net10.0-windows\WordEditor.runtimeconfig.json
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\bin\Debug\net10.0-windows\WordEditor.dll
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\bin\Debug\net10.0-windows\WordEditor.pdb
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.Form1.resources
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.csproj.GenerateResource.cache
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.AssemblyInfoInputs.cache
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.AssemblyInfo.cs
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.dll
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\refint\WordEditor.dll
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.pdb
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\WordEditor.genruntimeconfig.cache
+C:\Users\COMPUTER PANEL\source\repos\WordEditor\WordEditor\obj\Debug\net10.0-windows\ref\WordEditor.dll
